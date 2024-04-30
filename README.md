@@ -1,19 +1,8 @@
-<div align="center">
-  <img src="./public/assets/DevSecOps.png" alt="Logo" width="100%" height="100%">
+![Project-2](https://github.com/Daemon18/DevSecOps/assets/113002971/33ae3bf4-2bfc-4163-98a7-553800f04c04)
 
-  <br>
-  <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
-    <img src="./public/assets/netflix-logo.png" alt="Logo" width="100" height="32">
-  </a>
-</div>
 
-<br />
 
-<div align="center">
-  <img src="./public/assets/home-page.png" alt="Logo" width="100%" height="100%">
-  <p align="center">Home Page</p>
-</div>
-
+![project-1](https://github.com/Daemon18/DevSecOps/assets/113002971/301557e1-7282-49cf-be7b-adafb91a59b4)
 
 
 
